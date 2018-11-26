@@ -4,6 +4,8 @@ DPLL SatSolver Implementation
 0 means end of line 
 
 Input: p cnf 20  91 
+
+
  4 -18 19 0
 3 18 -5 0
 -5 -8 -15 0
